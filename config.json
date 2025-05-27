@@ -1,0 +1,15 @@
+{
+    "Name": "Cid/Shadow Event *Auto Reconnect*",
+    "Description": "No description provided",
+    "Author": "kingmoe303",
+    "Version": "1.0",
+    "Image": "https://i.postimg.cc/tgXpxzQZ/ssa-1-1.jpg",
+    "Tags": {
+        "Type": "TinyTask",
+        "Resolution": "1920x1080"
+    },
+    "Main": "Cid Mac For ARX Auto Reconnect By Moe.rec",
+    "MangoID": "Mango-j90tzu",
+    "bigthumbnail": "https://i.postimg.cc/tgXpxzQZ/ssa-1-1.jpg",
+    "Game": "AnimeRangerX"
+}
